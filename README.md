@@ -15,7 +15,7 @@ Flowchart for information change and check price available on image below:
 
 # API Promotion Service
 
-API developed in golang, listen to port 8080. Output is in JSON format. Database table design used on this API service are rooms and promo Available functions under this API service are:
+API developed in **golang**, listen to **port 8080**. Output is in **JSON** format. Database table design used on this API service are table **rooms** and **table promo**. Available functions under this API service are:
 
 * [Get All Rooms](#Get-All-Room) - Get all rooms information
 * [Get Single Room](#Get-Single-Room) - Get single room information by ID
