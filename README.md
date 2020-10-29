@@ -19,7 +19,7 @@ API developed in golang, listen to port 8080. Output is in JSON format. Database
 
 * [Get All Rooms](#Get-All-Room) - Get all rooms information
 * [Get Single Room](#Get-Single-Room) - Get single room information by ID
-* [Promo](#Promo) - Get list of price, total price, and total promo
+* [Promo](#Promo-1) - Get list of price, total price, and total promo
  
 ## Sample Data
 
