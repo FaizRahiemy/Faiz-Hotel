@@ -98,7 +98,7 @@ Parameter required:
 | price | list of price, can be single or multiple (counted as number of rooms) | 10000,20000 |
 | total | total of price | 30000 |
 | promo_id | promo id, taken from promo table's ID | 1 |
-| days | 1 | days of checkin (0 = sun; 1 = mon; 2 = tue; ...) | 1 |
+| days | 1 | days of checkin (0 = sun; 1 = mon; 2 = tue; ...), can be multiple day | 1 |
 
 Sample output:
 
